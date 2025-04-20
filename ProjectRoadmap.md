@@ -10,8 +10,7 @@ Sprint 1
 - [ ] Find example repository - https://github.com/aqeelanwar/Tic-Tac-Toe
 Sprint 2
 - [ ] Tested code in repository 
-- [ ]Code testing 
-- [ ]Make sure to comment on changes that was made 
+- [ ] Code testing 
 Sprint 3
 - [ ] Make sure to use check boxes 
 - [ ] Schedule teams presentations 
