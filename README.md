@@ -11,8 +11,6 @@ Real-time win, lose, or draw detection
 
 Input validation for smooth user experience
 
-Easily expandable AI logic and board visuals
-
 # 🔧 Technologies Used
 
 Python 3
