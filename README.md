@@ -25,3 +25,4 @@ Markdown for documentation
 Anyone looking for a fun, quick, and interactive way to play Tic Tac Toe against a computer — whether for entertainment or to learn Python basics.
 
 # 🔗 Related Projects / Inspiration
+https://github.com/aqeelanwar/Tic-Tac-Toe
