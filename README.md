@@ -1,13 +1,13 @@
 # Tictactoe-game
-This is a Python-based Tic Tac Toe game where a single player competes against a basic AI opponent. The user plays on a 3x3 grid using a text-based interface, aiming to beat the AI by placing three marks in a row.
+This is a Python-based Tic Tac Toe game where a single player competes against a basic AI opponent. The user plays on a 3x3 grid using a text based interface, aiming to beat the AI by placing three marks in a row.
 
 # 🎮 Features
 
-Text-based user interface
+Text based user interface
 
-Single-player gameplay against a simple AI
+Single player gameplay against a simple AI
 
-Real-time win, lose, or draw detection
+Real time win, lose, or draw detection
 
 Input validation for smooth user experience
 
