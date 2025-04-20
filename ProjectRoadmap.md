@@ -1,11 +1,19 @@
 # Roadmap
 Tasks
+
+Sprint 1
 - [x] Create GitHub repository under ksu-is team
-- [x] Create title for TicTac Toe
-- [x] Add README.md
-- [x] Find related exisiting TicTacToe example repository
-- [x] Clone files to Github Desktop and upload them to Visual Studio
-- [x] Run the code, and locate possible problems
-- [x] Allow User input
-- [x] Allow player to insert own name
-- [x] Create Power point slide to set expectation
+- [x] Created readme.md DONE
+- [ ] Needs to assign licenses to repository 
+- [ ] Start coding changes 
+- [ ] Import necessary resources
+- [ ] Find example repository - https://github.com/aqeelanwar/Tic-Tac-Toe
+Sprint 2
+- [ ] Tested code in repository 
+- [ ]Code testing 
+- [ ]Make sure to comment on changes that was made 
+Sprint 3
+- [ ] Make sure to use check boxes 
+- [ ] Schedule teams presentations 
+- [ ] Create PowerPoint 
+- [ ] Update readme.md
