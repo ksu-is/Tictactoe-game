@@ -21,6 +21,7 @@ GitHub for version control
 
 Markdown for documentation
 
-# 👥 Target Users Anyone looking for a fun, quick, and interactive way to play Tic Tac Toe against a computer — whether for entertainment or to learn Python basics.
+# 👥 Target Users 
+Anyone looking for a fun, quick, and interactive way to play Tic Tac Toe against a computer — whether for entertainment or to learn Python basics.
 
-🔗 Related Projects / Inspiration
+# 🔗 Related Projects / Inspiration
