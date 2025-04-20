@@ -1,4 +1,3 @@
-# Sprint 1
 # Roadmap
 Tasks
 - [x] Create GitHub repository under ksu-is team
