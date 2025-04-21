@@ -11,9 +11,9 @@ Sprint 1
       
 Sprint 2
 - [x] Tested code in repository 
-- [] Code testing
+- [ ] Code testing
 - [x] Write Clearer commit messages
-- [] Push Changes to Github
+- [ ] Push Changes to Github
       
 Sprint 3
 - [x] Make sure to use check boxes 
