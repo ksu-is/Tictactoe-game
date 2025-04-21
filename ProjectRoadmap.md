@@ -11,12 +11,12 @@ Sprint 1
       
 Sprint 2
 - [x] Tested code in repository 
-- [x] Code testing
+- [] Code testing
 - [x] Write Clearer commit messages
-- [x] Push Changes to Github
+- [] Push Changes to Github
       
 Sprint 3
-- [ ] Make sure to use check boxes 
+- [x] Make sure to use check boxes 
 - [ ] Schedule teams presentations 
 - [x] Create PowerPoint 
-- [ ] Update readme.md
+- [x] Update readme.md
