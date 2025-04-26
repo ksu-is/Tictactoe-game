@@ -22,3 +22,8 @@ Anyone looking for a fun, quick, and interactive way to play Tic Tac Toe against
 
 # Related Projects / Inspiration
 https://github.com/aqeelanwar/Tic-Tac-Toe
+
+# Installation
+Clone or download this repository
+Open a terminal in the project folder
+Run the setup script:
